@@ -1,0 +1,4 @@
+filegroup {
+    name: "unisoc_test_mediaprovider",
+    srcs: ["src/**/*.java"],
+}
